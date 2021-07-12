@@ -1,0 +1,31 @@
+.recipes {
+    margin: 0px;
+    padding: 2.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.recipe-card {
+    margin: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 2.5rem;
+    text-align: center;
+    background-color: #4040da;
+    border-radius: 15px;
+    color: #fff;
+}
+
+@media screen and (max-width: 600px) {
+    .recipes {
+        width: 100%;
+        display: block;
+        margin-bottom: 2rem;
+        padding: 0;
+    }
+
+    .recipe-card{
+        margin: 1rem;
+        padding: 1.5rem;
+    }
+}
+
