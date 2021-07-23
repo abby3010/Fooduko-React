@@ -1,8 +1,12 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import { Link } from 'react-router-dom'
 import './navbar.css';
+import { UserContext } from '../context/UserContext';
 
-const Navbar = () => {
+function Navbar() {
+
+    // Check if the user is logged In
+    const user = useContext(UserContext);
     return (
         <nav className="navbar">
             <ul className="navbar-nav">
@@ -41,23 +45,36 @@ const Navbar = () => {
                     </Link>
                 </li>
                 <li className="nav-item">
-                    <Link to="/" className="nav-link">
+                    <Link to="/recipes" className="nav-link">
                         <img src="https://image.flaticon.com/icons/png/128/3823/3823283.png" data-src="https://image.flaticon.com/icons/png/128/3823/3823283.png" srcSet="https://image.flaticon.com/icons/png/128/3823/3823283.png 4x" alt="Soup" />
                         <span className="link-text">Recipes</span>
                     </Link>
                 </li>
-                <li className="nav-item">
-                    <Link to="/" className="nav-link">
-                        <img src="https://image.flaticon.com/icons/png/128/3638/3638191.png" data-src="https://image.flaticon.com/icons/png/128/3638/3638191.png" srcSet="https://image.flaticon.com/icons/png/128/3638/3638191.png 4x" alt="Player"></img>
-                        <span className="link-text">My Profile</span>
-                    </Link>
-                </li>
-                <li className="nav-item">
-                    <Link to="/" className="nav-link">
-                        <img src="https://image.flaticon.com/icons/png/128/272/272354.png" data-src="https://image.flaticon.com/icons/png/128/272/272354.png" alt="Login free icon" srcSet="https://image.flaticon.com/icons/png/128/272/272354.png 4x" />
-                        <span className="link-text">Login</span>
-                    </Link>
-                </li>
+
+                {/* Show user routes only when the user is logged in. */}
+                {user != null ?
+                    <>
+                        <li className="nav-item">
+                            <Link to={"/profile/" + user.uid} className="nav-link">
+                                <img src="https://image.flaticon.com/icons/png/128/3638/3638191.png" data-src="https://image.flaticon.com/icons/png/128/3638/3638191.png" srcSet="https://image.flaticon.com/icons/png/128/3638/3638191.png 4x" alt="Player"></img>
+                                <span className="link-text"> My Profile </span>
+                            </Link>
+                        </li>
+                        <li className="nav-item">
+                            <Link to="/logout" className="nav-link">
+                                <img src="https://image.flaticon.com/icons/png/512/1082/1082434.png" data-src="https://image.flaticon.com/icons/png/512/1082/1082434.png" srcSet="https://image.flaticon.com/icons/png/512/1082/1082434.png 4x" alt="Player"></img>
+                                <span className="link-text"> Logout </span>
+                            </Link>
+                        </li>
+                    </>
+                    : <li className="nav-item">
+                        <Link to="/auth" className="nav-link">
+                            <img src="https://image.flaticon.com/icons/png/128/272/272354.png" data-src="https://image.flaticon.com/icons/png/128/272/272354.png" alt="Login free icon" srcSet="https://image.flaticon.com/icons/png/128/272/272354.png 4x" />
+                            <span className="link-text">Login</span>
+                        </Link>
+                    </li>}
+
+
                 <li className="nav-item">
                     <Link to="/contact" className="nav-link">
                         <img src="https://image.flaticon.com/icons/png/128/1034/1034255.png" data-src="https://image.flaticon.com/icons/png/128/1034/1034255.png" alt="Contact free icon" srcSet="https://image.flaticon.com/icons/png/128/1034/1034255.png 4x" />

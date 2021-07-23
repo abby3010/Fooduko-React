@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 
 // Sections of HomePage
 import IntroSection from './Intro.js';
-import RecipeSection from './RecipeSection.js';
+import RecipeSuggestions from '../RecipeSuggestions/RecipeSuggestions';
 
 class Home extends Component {
     // Parallax Effect
@@ -26,7 +26,8 @@ class Home extends Component {
         return (
             <div className="home">
                 <IntroSection />
-                <RecipeSection />
+                <h2>Recipe Sections</h2>
+                <RecipeSuggestions />   
             </div>
         );
     }

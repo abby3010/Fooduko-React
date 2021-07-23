@@ -1,0 +1,142 @@
+{
+    "Vegan": [
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874207/categories/vegan1_mksq7v.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874208/categories/vegan2_lxkqu9.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874207/categories/vegan3_ts5pug.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874210/categories/vegan4_dn9wc2.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874210/categories/vegan5_ionhoq.jpg"
+    ],
+    "Baking": [
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874209/categories/baking1_fbqshr.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874209/categories/baking2_twrymw.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874210/categories/baking3_xnocud.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874214/categories/baking4_tvvs4x.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874213/categories/baking5_nxzraf.jpg"
+    ],
+    "Beverages": [
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874212/categories/beverages1_khdqh4.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874212/categories/beverages2_ewak9b.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874214/categories/beverages3_k0pttr.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874224/categories/beverages4_m9ssoq.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874238/categories/beverages5_rlvdmz.jpg"
+    ],
+    "Breakfast": [
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874237/categories/breakfast1_yohpei.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874237/categories/breakfast2_khhtiu.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874239/categories/breakfast3_ohfg8j.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874242/categories/breakfast4_uuojaj.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874241/categories/breakfast5_resas1.jpg"
+    ],
+    "Bread": [
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874225/categories/bread1_fczawl.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874226/categories/bread2_upn99g.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874239/categories/bread3_qk5dj1.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874238/categories/bread4_lky2eb.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874235/categories/bread5_auu7vo.jpg"
+    ],
+    "Brunch": [
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874241/categories/brunch1_qw8afr.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874243/categories/brunch2_cmatg7.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874253/categories/brunch3_heriqm.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874242/categories/brunch4_el9rog.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874247/categories/brunch5_j97rq6.jpg"
+    ],
+    "Ice Cream": [
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874279/categories/icecream1_vawxhe.webp",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874281/categories/icecream2_q2sxug.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874283/categories/icecream3_e1ks6x.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874327/categories/icecream4_ffc9hi.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874290/categories/icecream5_smmbom.jpg"
+    ],
+    "Dessert": [
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874254/categories/dessert1_wp9238.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874258/categories/dessert2_zp4nm9.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874259/categories/dessert3_j1s7im.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874274/categories/dessert4_uqwfpv.webp",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874267/categories/dessert5_is2srw.jpg"
+    ],
+    "Drinks": [
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874276/categories/drinks1_rcxkp8.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874278/categories/drinks2_wtayl3.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874272/categories/drinks3_ltpetd.webp",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874274/categories/drinks4_tqycxg.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874276/categories/drinks5_piug6f.jpg"
+    ],
+    "Lunch": [
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874282/categories/lunch1_mhuja1.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874292/categories/lunch2_dsub0x.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874293/categories/lunch3_najzgo.webp",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874292/categories/lunch4_tjp5u2.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874291/categories/lunch5_msspwb.jpg"
+    ],
+    "Dinner": [
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874262/categories/dinner1_bdncln.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874261/categories/dinner2_r4yojd.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874263/categories/dinner3_nhnhro.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874264/categories/dinner4_bohfua.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874292/categories/dinner5_ueglt9.jpg"
+    ],
+    "Snacks": [
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874178/categories/snacks1_lyd108.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874179/categories/snacks2_mawmmc.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874178/categories/snacks3_kpyhow.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874179/categories/snacks4_endtaz.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874179/categories/snacks5_o34t2q.jpg"
+    ],
+    "Sea Food": [
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874176/categories/seafood1_o6vyhk.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874176/categories/seafood2_tcsxot.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874198/categories/seafood3_oxqlfc.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874174/categories/seafood4_yo3de6.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874188/categories/seafood5_oocl3x.jpg"
+    ],
+    "Side Dish": [
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874164/categories/sidedish1_hsogt2.png",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874166/categories/sidedish2_u5uh6j.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874176/categories/sidedish3_wakpsw.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874176/categories/sidedish4_my618n.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874174/categories/sidedish5_txhiue.jpg"
+    ],
+    "Starters": [
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874184/categories/starters1_f5sot5.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874198/categories/starters2_vds5vx.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874200/categories/starters3_w10nec.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874198/categories/starters4_fge4xi.webp",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874207/categories/starters5_vv7ui4.jpg"
+    ],
+    "Salad": [
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874307/categories/salad1_d12arh.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874299/categories/salad2_usuw9i.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874306/categories/salad3_eg0wjq.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874313/categories/salad4_voxi0n.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874307/categories/salad5_f6ldps.jpg"
+    ],
+    "Soup": [
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874179/categories/soup1_vofkrk.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874180/categories/soup2_enuftz.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874197/categories/soup3_amsqy7.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874234/categories/soup4_dcc32u.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874264/categories/soup5_uhwjvs.jpg"
+    ],
+    "Chicken": [
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874243/categories/chicken1_d83urz.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874254/categories/chicken2_kovq8b.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874289/categories/chicken3_dur90v.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874256/categories/chicken4_ekanco.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874256/categories/chicken5_yywwwb.jpg"
+    ],
+    "Sauce": [
+        "https://res.cloudinary.com/fooduko/image/upload/q_auto:low/v1626874346/categories/sauce1_j42o6i.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874318/categories/sauce2_gq7xvm.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874316/categories/sauce3_v6nyzf.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874309/categories/sauce4_cnwyne.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874160/categories/sauce5_pgfh9c.jpg"
+    ],
+    "Meat": [
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874292/categories/meat1_epscgq.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874297/categories/meat2_rw0woo.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874299/categories/meat3_tftwdg.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874305/categories/meat4_lwypbj.jpg",
+        "https://res.cloudinary.com/fooduko/image/upload/v1626874316/categories/meat5_mljgfk.jpg"
+    ]
+}

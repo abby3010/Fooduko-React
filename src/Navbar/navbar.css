@@ -9,6 +9,7 @@
 }
 
 .navbar {
+  z-index: 9999;
   position: fixed;
   background-color: var(--bg-primary);
   transition: width 600ms ease;
@@ -120,7 +121,9 @@
     justify-content: center;
   }
   main {
-    margin: 0;
+    /* margin: 0; */
+    margin-left: 0;
+    margin-bottom: 5rem;
   }
 }
 
